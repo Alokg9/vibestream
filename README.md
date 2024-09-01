@@ -1,8 +1,6 @@
 VibeStream
 
 
-Certainly! Below is the README content in GitHub Markdown format:
-
 ```markdown
 ## VibeStream
 
@@ -56,6 +54,4 @@ Check out the live version of VibeStream [here](https://vibestream-tliq-oc65x3zi
 ### Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request.
-```
 
-You can copy and paste this directly into your `README.md` file on GitHub. It will render with proper formatting when viewed on the platform.
